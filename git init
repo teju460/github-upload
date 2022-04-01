@@ -1,0 +1,4 @@
+git remote https://github.com/teju460/github-upload.git
+git add
+git commit -m "initializing repository"
+git push -u origin main
